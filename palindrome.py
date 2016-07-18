@@ -1,3 +1,4 @@
+#this is a script for palindrome
 while True:
    a = int(input('enter the number'))
    b = str(a)
