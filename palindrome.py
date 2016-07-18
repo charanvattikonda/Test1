@@ -4,4 +4,4 @@ while True:
    if b[0] == b[-1]:
       print 'its a palindrome'
    elif b[0] != b[-1]:
-        print 'its not a palindrome'
+        print 'not a palindrome'
